@@ -993,6 +993,8 @@
 		CDE1D43A217C59C30047CF85 /* apply_dropdown@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CDE1D1E3217C59C20047CF85 /* apply_dropdown@2x.png */; };
 		CDE1D43B217C59C30047CF85 /* statistics_evection@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CDE1D1E4217C59C20047CF85 /* statistics_evection@3x.png */; };
 		CDE1D43C217C59C30047CF85 /* statistics_evection@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CDE1D1E4217C59C20047CF85 /* statistics_evection@3x.png */; };
+		CDF2AA5E21D4DA0600A2BCD3 /* setting_time_warming@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CDF2AA5C21D4DA0600A2BCD3 /* setting_time_warming@3x.png */; };
+		CDF2AA5F21D4DA0600A2BCD3 /* setting_time_warming@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CDF2AA5D21D4DA0600A2BCD3 /* setting_time_warming@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1659,6 +1661,8 @@
 		CDE1D1E2217C59C20047CF85 /* setting_addition@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "setting_addition@2x.png"; sourceTree = "<group>"; };
 		CDE1D1E3217C59C20047CF85 /* apply_dropdown@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "apply_dropdown@2x.png"; sourceTree = "<group>"; };
 		CDE1D1E4217C59C20047CF85 /* statistics_evection@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "statistics_evection@3x.png"; sourceTree = "<group>"; };
+		CDF2AA5C21D4DA0600A2BCD3 /* setting_time_warming@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "setting_time_warming@3x.png"; sourceTree = "<group>"; };
+		CDF2AA5D21D4DA0600A2BCD3 /* setting_time_warming@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "setting_time_warming@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -2571,6 +2575,8 @@
 		CD88F4AD2133AF62009A6864 /* AllImages */ = {
 			isa = PBXGroup;
 			children = (
+				CDF2AA5D21D4DA0600A2BCD3 /* setting_time_warming@2x.png */,
+				CDF2AA5C21D4DA0600A2BCD3 /* setting_time_warming@3x.png */,
 				CDCA796C21BF8739007F8DBD /* apply_evection_icon@2x.png */,
 				CDCA796E21BF8739007F8DBD /* apply_evection_icon@3x.png */,
 				CDCA796F21BF8739007F8DBD /* apply_explain@2x.png */,
@@ -3263,6 +3269,7 @@
 				CDE1D3EC217C59C30047CF85 /* approval_nav_bg@3x.png in Resources */,
 				CDE1D268217C59C20047CF85 /* setting_process@2x.png in Resources */,
 				CD77CC40217DAA54003BBEBF /* info.png in Resources */,
+				CDF2AA5F21D4DA0600A2BCD3 /* setting_time_warming@2x.png in Resources */,
 				CDE1D3E0217C59C20047CF85 /* statistics_selectButtonbg@2x.png in Resources */,
 				CDE1D3FC217C59C30047CF85 /* approval_detail_pprovalending@2x.png in Resources */,
 				CDE1D29C217C59C20047CF85 /* setting_effectivedate@3x.png in Resources */,
@@ -3423,6 +3430,7 @@
 				CDE1D380217C59C20047CF85 /* attendence_retroactive@2x.png in Resources */,
 				CDE1D3BC217C59C20047CF85 /* setting_removepersonnel@3x.png in Resources */,
 				CDE1D296217C59C20047CF85 /* tab_approval_nomal@2x.png in Resources */,
+				CDF2AA5E21D4DA0600A2BCD3 /* setting_time_warming@3x.png in Resources */,
 				CDE1D1F8217C59C20047CF85 /* tab_punchingtimecard_nomal@3x.png in Resources */,
 				CDE1D39E217C59C20047CF85 /* apply_vacate@3x.png in Resources */,
 				CDE1D396217C59C20047CF85 /* attendence_circular_today@3x.png in Resources */,
